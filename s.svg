@@ -1,6 +1,3 @@
 <svg xmlns="http://www.w3.org/2000/svg">
-  <rect width="100" height="100" fill="blue"
-        onbegin="alert(1)">
-    <set attributeName="fill" to="red" begin="0s"/>
-  </rect>
+  <desc onload="alert(1)">Hello</desc>
 </svg>
